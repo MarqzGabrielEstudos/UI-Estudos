@@ -15,7 +15,7 @@ Como o universo digital ainda é muito novo, constantemente surgem mudanças e t
 
 *1- Página Institucional*
 
-[Image_1](/images/[IMAGEM-alura_LandingPage_01.jpg].jpg)
+![Image_1](/images/[IMAGEM-alura_LandingPage_01.jpg].jpg)
 
 Veja este site da empresa [Crustac](https://crustac.fr/en/home/)
 
@@ -28,7 +28,7 @@ Criar pontes entre outros conteúdos da empresa (até isso é possível!).
 
 *2- Página de Blog*
 
-[Image_2](/images/[IMAGEM-alura_LandingPage_02.jpg].jpg)
+![Image_2](/images/[IMAGEM-alura_LandingPage_02.jpg].jpg)
 
 Agora, visualize a página da empresa [Creative Boom](https://www.creativeboom.com). Qual a diferença em relação ao site da Crusac, que você viu antes?
 
@@ -38,13 +38,13 @@ O modelo página de blog é uma página de manutenção de conteúdo escrito, em
 
 *3- Lojas virtuais e E-commerce*
 
-[Image_3](/images/[IMAGEM-alura_LandingPage_03.jpg].jpg)
+![Image_3](/images/[IMAGEM-alura_LandingPage_03.jpg].jpg)
 
 É um modelo bem auto-explicativo: se você tem necessidade de vender produtos, este é o modelo de site que você quer usar para construir o seu conteúdo. Os sites de lojas virtuais e E-commerce são bem densos, pois devem possuir uma forma de direcionar os usuários para várias categorias, produtos, compra etc.
 
 **4- Landing Page**
 
-[Image_4](/images/[IMAGEM-alura_LandingPage_04.jpg].jpg)
+![Image_4](/images/[IMAGEM-alura_LandingPage_04.jpg].jpg)
 
 Veja esta página [DesignWiz](http://ww1.designwiz.co)
 
