@@ -30,6 +30,6 @@ O site da O la la Dani é um exemplo de conversão, pois ela traz uma taxa de 84
 
 Claro que eles entendem muito bem seu público-alvo, a maneira de se comunicar e a formas de divulgar seu conteúdo.
 
-[Image_1](/images/[IMAGEM-alura_LandingPage_05.jpg].jpg)
+![Image_1](/images/[IMAGEM-alura_LandingPage_05.jpg].jpg)
 
 [O La La Dano](https://materiais.ohlaladani.com.br/planner-de-viagem-download)
