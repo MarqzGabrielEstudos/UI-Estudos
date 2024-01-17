@@ -38,7 +38,7 @@ Nem todos que acessam o site vão ler de maneira atenta aos textos, a imagem ref
 
 A prova social é o momento da landing page onde você apresenta quais os clientes de peso que o serviço possui ou também depoimentos de pessoas que utilizam o serviço para reforçar a qualidade e as vantagens de contratar ou adquirir o produto principal da landing page
 
-[Image_5](/images/img_5.jpg)
+![Image_5](/images/img_5.jpg)
 
 No nosso exemplo são apresentados os clientes de peso que utilizam do serviço vendido na página.
 
